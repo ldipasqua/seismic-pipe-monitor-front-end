@@ -17,7 +17,7 @@ Com esta interface, o usuário é capaz de:
 
 ---
 ## Arquitetura do Seismic Pipe Monitor
-![Arquitetura do Seismic Pipe Monitor](/img/seismic-pipe-monitor-arquitetura.png)
+![Arquitetura do Seismic Pipe Monitor](/img/Seismic-pipe-monitor-arquitetura.png)
 
 ---
 
